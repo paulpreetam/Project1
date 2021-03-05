@@ -1,0 +1,17 @@
+Potential Project questions:
+
+*What were the trends prior to covid-19 and how quickly did they decline? By what percentage?
+
+*Where were the biggest hits taken? What cities? What Airlines?
+
+*How many flights were cancelled? How many actually took place?
+
+*Were there areas that were not as affected? 
+
+*How much revenue was lost? (predict what it likely would have been and then compare to what it actually was?)
+
+*In terms of operating costs, how did 2020 compare to 2019? In terms of revenue: operating costs, what percentages did they lose out on? 
+
+*Did any specific airlines fair better or worse than any others? Can we make any correlations between those airlines and geographical regions? (i.e., did carriers that primarily serve the Northwest or Northeast fair better than those that serve the Midwest, etc.?)
+
+*Can we make any predictions for future recovery for any of those areas? Are there any upward trends? 
